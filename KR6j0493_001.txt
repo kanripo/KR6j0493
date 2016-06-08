@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:33:38.611480
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:18
 #+TITLE: 氷揭羅天童子經
 #+PROPERTY: CBETA_ID T21n1263
 #+PROPERTY: ID KR6j0493
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1263
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0493_T_000-0291c>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0493_T_001-0291c> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
-No.1263¶
-
- 《氷揭羅天童子經》¶
+No. 1263¶
+《氷揭羅天童子經》¶
 ¶
 特進試鴻臚卿大興善寺三藏¶
 沙門大廣智不空奉　詔譯¶
